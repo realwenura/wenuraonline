@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **seo**
 
-- 📫 How to reach me [https://m.me/wenuraonline](Messenger)
+- 📫 How to reach me [Messenger](https://m.me/wenuraonline)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
