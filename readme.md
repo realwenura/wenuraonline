@@ -5,20 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/wenuraonline" target="blank"><img src="https://img.shields.io/twitter/follow/wenuraonline?logo=twitter&style=for-the-badge" alt="wenuraonline" /></a> </p>
 
-- 🔭 I’m currently working on **Music App**
-
-- 🌱 I’m currently learning **Javascript, react, C#**
-
-- 👯 I’m looking to collaborate on **Forum**
-
-- 🤝 I’m looking for help with **React Blogs**
-
-- 👨‍💻 All of my projects are available at [https://wenura.dev/](https://wenura.dev/)
-
-- 📝 I regularly write articles on [https://blog.wenura.dev/](https://blog.wenura.dev/)
-
-- 💬 Ask me about **seo**
-
 - 📫 How to reach me [Messenger](https://m.me/wenuraonline)
 
 <h3 align="left">Connect with me:</h3>
